@@ -1,4 +1,8 @@
-It’s a basic computer graphics project.
+Fract-ol
+
+(project of School 21)
+
+Discover 2D programming and the universe of fractals in this a basic computer graphics project.
 
 You are going to use the school graphical library: the MiniLibX. This library was developed internally and includes basic necessary tools to open a window, create images and deal with keyboard and mouse events.
 
